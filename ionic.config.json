@@ -1,0 +1,7 @@
+{
+  "name": "gps_tutorial",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
